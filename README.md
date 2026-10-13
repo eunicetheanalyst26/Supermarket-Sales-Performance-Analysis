@@ -22,5 +22,3 @@ This project delivers an interactive Power BI dashboard analyzing supermarket sa
 - **Microsoft Power BI:** Data modeling, DAX measures, and interactive dashboard design.
 - **Data Visualization:** Custom charts and KPI cards.
 
-## How to View
-You can download the `SUPERMARKET.pbix` file from this repository and open it in Power BI Desktop to explore the full interactive model and data transformations.
